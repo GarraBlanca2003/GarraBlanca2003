@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garra</h1>
-- 📫 How to reach me **garra@email.garra.dev**
+- 📫 How to reach me *garra@email.garra.dev*
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
