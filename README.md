@@ -5,7 +5,7 @@
 
 </n>
   <a href="https://github.com/GarraBlanca2003">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarraBlanca2003&count_private=true&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garrablanca2003&count_private=true&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true" />
 </a>
 <a href="https://github.com/GarraBlanca2003">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarraBlanca2003" />
