@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Garra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garrablanca2003&label=Profile%20views&color=0e75b6&style=flat" alt="garrablanca2003" /> </p>
 
-- 📫 How to reach me **garra@email.garra.dev**<a href="https://github.com/migouche">
+- 📫 How to reach me **garra@email.garra.dev**
+
+</n>
+  <a href="https://github.com/GarraBlanca2003">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=migouche&count_private=true&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true" />
 </a>
-<a href="https://github.com/migouche">
+<a href="https://github.com/GarraBlanca2003">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migouche&theme=midnight-purple&hide_border=false&exclude_repo=Pootis-Runner-Dev,Procedural-Terrain-Project,Role-Playing-Simulator,6502-Emulator,Cards,Practica-PL,Practica1-AIS&layout=compact&langs_count=10" />
 </a>
 <p align="left">
